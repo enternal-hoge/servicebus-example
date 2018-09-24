@@ -1,6 +1,9 @@
 # servicebus-example
 azure servicebus example golang
 
+I try to execute Microsoft Azure Service Bus Client for Golang Quick Start, but does not working.
+
+so I created a example that reads the test code and works correctly.
 
 # Requiment
 + go 1.11
