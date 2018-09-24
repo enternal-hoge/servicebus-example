@@ -1,4 +1,4 @@
-module servicebus
+module servicebus-example
 
 require (
 	github.com/Azure/azure-amqp-common-go v1.0.1 // indirect
